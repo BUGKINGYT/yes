@@ -1,1 +1,1 @@
-the board is a poker chip
+the board is a light up poker chip
